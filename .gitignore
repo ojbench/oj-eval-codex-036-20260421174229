@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+code
+*.o
+build/
+__pycache__/
+*.pyc
+submission_ids.log
